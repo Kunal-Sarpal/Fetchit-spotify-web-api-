@@ -1,7 +1,7 @@
 // const fetch = require('node-fetch');
 
-const clientId = 'b7ad10e006874e5b9a8583ca84035a8a';
-const clientSecret = 'f53e1d4566d44131817d46dab2d7ea2f';
+const clientId = 'your_client_id';
+const clientSecret = 'your_client_secret';
 
 const url = 'https://accounts.spotify.com/api/token';
 

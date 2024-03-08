@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect("mongodb+srv://sarpalkunal7:kunal1234@cluster1.pc6dcst.mongodb.net/spotify_artist")
+mongoose.connect("mongodb+srv://your_username:your_pass@cluster1.pc6dcst.mongodb.net/spotify_artist")
 // Define the artist schema
 const artistSchema = new mongoose.Schema({
   externalUrls: {

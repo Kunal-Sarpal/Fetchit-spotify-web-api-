@@ -3,7 +3,7 @@ const db = require('./db');
 
 const app = express();
 const PORT = 3000;
-const accessToken = 'BQAZT5Vq025HFu-DYKV8_FeCHE7ZITrkdzG5jwd4gECTzFV-33Ea5-REsPc0uECvrRO3-7YLMAUaJBnOALlXYqoUUEpmlwo6mjvImT6_xQa9ewR1XeI';
+const accessToken = 'BQAZT5Vq025HFu-DYKV8_FeCHE7ZITrkdzG5jwd4gECTzFV-33Ea5-REsPc0uECvrRO3-......Your acess token';
 // const artistId = '4PULA4EFzYTrxYvOVlwpiQ';
 
 const Artist = require('./db');

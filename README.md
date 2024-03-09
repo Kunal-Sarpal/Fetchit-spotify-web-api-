@@ -1,10 +1,10 @@
 
-Here's a basic README template for your Fetchit app:
+##Here's a basic README template for your Fetchit app:
 
-Fetchit - Your Favorite Artist Details
+##Fetchit - Your Favorite Artist Details
 Fetchit is a simple web application that allows you to retrieve details of your favorite artists using their Spotify ID. With Fetchit, you can easily get information such as followers count, genres, popularity, and more about any artist on Spotify.
 
-How to Use
+-How to Use
 Clone this repository to your local machine.
 bash
 Copy code
